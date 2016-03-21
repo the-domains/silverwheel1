@@ -6,10 +6,10 @@ color:
     - '#767032'
     - '#4f5112'
     - '#4e2b0a'
-  brandStrength: 0.987613
+  brandStrength: 0
   lightness: 0
   rhythmicContrast: 0
-  saturation: 0.5
+  saturation: 0
 cta: {}
 layout_spectrum: 0.25542
 name: SilverWheelArts
